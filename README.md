@@ -2,6 +2,10 @@
 
 **Learn Rails!** 
 
+## Memo and some tips
+* Git commit message should be in present form.
+ 
+
 Things you may want to cover:
 
 * Ruby version
